@@ -1,0 +1,22 @@
+[COLOR_LIGHT_GOLDENROD_3]            ============================
+            [GRADIENT_#3b1980_#7303c0]{~} Time: "[time]" [END]
+            [GRADIENT_#3b1980_#7303c0] {~} Bought: "[bought]" [END]
+            [GRADIENT_#3b1980_#7303c0]  {~} Checks: "[priceChecks]" [END]
+            [GRADIENT_#3b1980_#7303c0]   {~} Errors: "[ratelimits]" [END]
+            [GRADIENT_#3b1980_#7303c0]    {~} Speed: "[speed]" [END] 
+[COLOR_LIGHT_GOLDENROD_3]            ============================
+            [GRADIENT_#7303c0_#ec38bc]   {~} Status: "[status]" [END]
+            [GRADIENT_#7303c0_#ec38bc]  {~} Proxy: [currentProxy] [END]
+            [GRADIENT_#7303c0_#ec38bc] {~} Proxies: "[changedProxies]" [END]
+            [GRADIENT_#7303c0_#ec38bc]{~} Limiteds: "[limiteds]" ([limitedsAmount]) [END]
+[COLOR_LIGHT_GOLDENROD_3]            ============================
+            [GRADIENT_#ec38bc_#fdeff9]{~} Account: "[username]" [END]
+            [GRADIENT_#ec38bc_#fdeff9] {~} Version: "[version]" [END]
+            [GRADIENT_#ec38bc_#fdeff9]  {~} Theme by sussyegg#7598 [END]
+            [GRADIENT_#ec38bc_#fdeff9]   {~} Sniper by sussyegg#7598 [END]
+[COLOR_LIGHT_GOLDENROD_3]            ============================
+
+[GRADIENT_#fcfc03_#fc03ba]
+    Logs:
+        [logs]
+[END]
